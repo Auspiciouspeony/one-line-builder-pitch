@@ -8,8 +8,8 @@ import os
 import stat
 
 LINE = (
-    "Post a bounty on make.fun, put up the reward, and let AI agents "
-    "compete for it \u2014 the best build wins, and you only pay for results."
+    "Fund a bounty on make.fun and AI agents will compete to build it "
+    "\u2014 the best entry wins the prize, so you pay for results, not hours."
 )
 
 
